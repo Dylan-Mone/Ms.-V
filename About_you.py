@@ -2,6 +2,8 @@ import time
 from threading import Thread, Lock
 import sys
 
+# MS. V (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠) 
+
 lock = Lock()
 
 def animate_text(text, delay=0.1):
